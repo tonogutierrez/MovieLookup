@@ -2,7 +2,7 @@
 //  TrendingResults.swift
 //  MovieLookup
 //
-//  Created by Beau Nouvelle on 20/2/2023.
+//  Created by Antonio Gutierrez on 03/09/24.
 //
 
 import Foundation
